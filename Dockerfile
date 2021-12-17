@@ -1,4 +1,4 @@
-FROM tecadmin/ubuntu-ssh:16.04
+FROM ubuntu-ssh:16.04
 LABEL maintainer="docker-compose-demo"
 
 RUN apt-get update \
